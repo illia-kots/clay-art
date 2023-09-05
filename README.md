@@ -1,4 +1,4 @@
-# POTR POTS landing page
+# CLAY-ART landing page
 
 **Implement a landing page according to this** [layout](https://www.figma.com/file/50zgLU65Mcd3MisFHMfLfx/POTR-POTS_FE-students?node-id=1760%3A281)
 
@@ -8,4 +8,4 @@
  - JavaScript
  - BEM
 
-[PREVIEW LINK](https://illia-kots.github.io/potr-pots_landing/)
+[PREVIEW LINK](https://illia-kots.github.io/clay-art/)
